@@ -11,7 +11,7 @@ _Italic_
 __bold__
 _**mix and match**_
 
-````
+```
 
 like this
 ```
@@ -36,3 +36,7 @@ You can use them for `in-line text`, or use triple for entire blocks
 ```
 like this
 ```
+
+![green_material](green_material.jpg)
+
+featured_image = "/images/green_material.jpg"
