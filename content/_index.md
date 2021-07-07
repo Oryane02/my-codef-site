@@ -11,3 +11,4 @@ content content content
 ![green_material](green_material.jpg)
 
 featured_image = "/images/green_material.jpg"
+
