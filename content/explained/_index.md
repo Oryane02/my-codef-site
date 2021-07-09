@@ -18,7 +18,7 @@ Every year, Haute Couture houses must present bi-annual collections for the seas
 
 __Extra Facts__
 
-- Haute Couture is givernment regulated
+- Haute Couture is government regulated
 - "Ateliers" are the basis of couture
   - Even though most areas of the fashion industry are mechanised, the couture industry is purely made by hand
   - The "_petites mains_" work on garments in each atelier
@@ -29,8 +29,8 @@ __Extra Facts__
 - Chanel is the biggest couture house
   - While Dior has two ateliers, Chanel reportedly has four
     - Two for tailoring, two for soft fabrics
-    
+
 
 Link for the Chambre Syndicale de la Haute Couture - now named as the ["FÉDÉRATION DE LA HAUTE COUTURE ET DE LA MODE"](https://fhcm.paris/en/the-federation/)
 
-![HC](HC.jpg)
+![HC2](HC2.png)
