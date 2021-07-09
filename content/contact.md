@@ -5,4 +5,8 @@ menu: "main"
 draft: false
 ---
 
-# Contact us at:
+# Contact me at:
+
+_**Email**_: deka.oryane66@gmail.com
+
+_**LinkedIn**_: https://www.linkedin.com/in/oryane-yungu/

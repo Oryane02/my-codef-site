@@ -5,10 +5,41 @@ draft: false
 ---
 
 # Haute Couture for Dummies
-content content content
+
+__Fast Facts__
+
+_**Who is on the official French list?**_
+> _The most famous ones:_
+
+- Chanel
+
+- Alexandre Vauthier
+
+- Frank Sorbier
+
+- Christian Dior
+
+- Jean Paul Gautier
+
+- Givenchy
+
+- Schiaparelli
+
+- Iris van Herpen
+
+- Ralph & Russo
+
+- Versace
+
+- Valentino
+
+- Elie Saab
+
+- Armani
+
+- Giambattista Valli
 
 
-![green_material](green_material.jpg)
+The French Chambre Syndicale is in charge of inviting 'maisons' into 'maisons de couture'.
 
-featured_image = "/images/green-material.jpg"
-
+Haute Couture is not that profitable of a business unless it is supported by a 'prêt-à-porter'(RTW: ready-to-wear) business wing or other business models.
