@@ -1,8 +1,8 @@
 ---
 title: "Explained"
 date: 2021-07-09T09:59:22+01:00
-menu : "main"
 draft: false
+weight: 1
 ---
 
 # Finally...
@@ -33,4 +33,4 @@ __Extra Facts__
 
 Link for the Chambre Syndicale de la Haute Couture - now named as the ["FÉDÉRATION DE LA HAUTE COUTURE ET DE LA MODE"](https://fhcm.paris/en/the-federation/)
 
-![HC2](HC2.png)
+![HC2](/images/HC2.png)

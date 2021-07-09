@@ -2,6 +2,7 @@
 title: "Criteria"
 date: 2021-07-08T10:17:42+01:00
 draft: false
+weight: 2
 ---
 
 One does not just wake up and decide to be an Haute Couture Maison. It takes a lot of pre-requisites for this. 
