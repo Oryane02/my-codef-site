@@ -43,3 +43,5 @@ _**Who is on the official French list?**_
 The French Chambre Syndicale is in charge of inviting 'maisons' into 'maisons de couture'.
 
 Haute Couture is not that profitable of a business unless it is supported by a 'prêt-à-porter'(RTW: ready-to-wear) business wing or other business models.
+
+![PFW2](PFW2)
